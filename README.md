@@ -1,3 +1,6 @@
+⬇️ DESCARGA ⬇️<br>
+[Click aquí](https://sergiojimenezdev.itch.io/pokeapp)
+
 🎮 PokeApp<br>
 PokeApp es un simulador de combate Pokémon desarrollado en Java con una interfaz gráfica utilizando Java Swing. El juego te permite simular un enfrentamiento entre Bulbasaur y el Profesor Oak, donde cada uno cuenta con 4 habilidades únicas que deberás usar sabiamente para aprovechar las sinergias y obtener la victoria.
 
